@@ -27,7 +27,7 @@ const services = [
     title: "Gestion de Stations d'Essence",
     description:
       'Pilotage des stocks de carburant, suivi des transactions et gestion des pompes en temps réel.',
-    link: 'https://www.youtube.com/watch?v=VIDEO_ID_3',
+    link: 'https://www.youtube.com/watch?v=-GFF_KkYMOY',
   },
   {
     icon: Wrench,
@@ -45,10 +45,10 @@ const services = [
   },
   {
     icon: FileText,
-    title: 'Reporting & Analytics',
+    title: 'Gestion Cabinet ophtalmologie',
     description:
-      'Tableaux de bord personnalisés et rapports détaillés pour piloter votre activité en toute transparence.',
-    link: 'https://www.youtube.com/watch?v=VIDEO_ID_6',
+      'Solution dédiée pour la gestion des rendez-vous, dossiers patients et facturation dans les cabinets d\'ophtalmologie.',
+    link: 'https://www.youtube.com/watch?v=rHMXcnl3SgQ',
   },
 ];
 
